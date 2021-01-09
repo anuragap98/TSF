@@ -8,4 +8,4 @@ Video Link: [https://youtu.be/Ov7w0UXY5Y8]
 Task 3: Exploratory Data Analysis - Retails
 Here I perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ to get an insight of business problem, which is the weak areas where you can 
 work to make more profit. <br>
-Video Link: [https://youtu.be/2OXQLPEGfAg]
+Video Link: [https://youtu.be/-fnczFCgJ_4]
